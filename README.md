@@ -19,4 +19,6 @@ RAM:1GB
 
 STORAGE:200MB
 
+Made By The N TEAM
+
 ![Alt text](LaptopPreview.png)
