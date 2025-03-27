@@ -10,4 +10,4 @@ Why Choose The App Manager?
 💰 Completely Free – No hidden costs, just a smooth and reliable experience.
 
 Get started today and simplify your Windows app installation like never before! 🚀
-![Alt text]()
+![Alt text](LaptopPreview.png)
