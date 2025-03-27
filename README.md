@@ -15,4 +15,7 @@ Get started today and simplify your Windows app installation like never before! 
 OS:Windows 10 x64 or later
 RAM:1GB
 STORAGE:200MB
+
+
+
 ![Alt text](LaptopPreview.png)
