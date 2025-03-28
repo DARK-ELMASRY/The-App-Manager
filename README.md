@@ -20,5 +20,7 @@ RAM:1GB
 STORAGE:200MB
 
 Made By The N TEAM
+
 "Rebranded from z studios to n team"
+
 ![Alt text](LaptopPreview.png)
