@@ -1,4 +1,4 @@
-# The-App-Manager
+# The-App-Manager Beta
 
 The App Manager – Your One-Stop Solution for Installing Essential Windows Apps!
 
