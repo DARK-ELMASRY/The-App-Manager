@@ -1,5 +1,4 @@
 # The-App-Manager
-Rebranded from z studios to n team
 
 The App Manager – Your One-Stop Solution for Installing Essential Windows Apps!
 
@@ -21,5 +20,5 @@ RAM:1GB
 STORAGE:200MB
 
 Made By The N TEAM
-
+"Rebranded from z studios to n team"
 ![Alt text](LaptopPreview.png)
