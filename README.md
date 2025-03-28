@@ -1,5 +1,6 @@
 # The-App-Manager
 Rebranded from z studios to n team
+
 The App Manager – Your One-Stop Solution for Installing Essential Windows Apps!
 
 Tired of searching and installing apps one by one? The App Manager makes it effortless! With just a few clicks, you can install all the must-have apps for your Windows PC—quickly and hassle-free.
